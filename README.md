@@ -215,4 +215,15 @@ More than the recognition, this journey provided hands-on experience in product 
 
 ### 📁 Supporting Evidence - https://drive.google.com/drive/folders/1CKvNzF8GJlrm1k7cCeYUjOe31Ox4Ascl?usp=sharing
 
+## 🚀 Explore Ananda
+
+Experience Ananda and explore the digital village built during DoraHacks 2.0.
+
+🌐 Live Product:
+https://ananda-sigma.vercel.app/
+
+We welcome feedback, ideas, and conversations around building thoughtful digital experiences for well-being.
+
+While Ananda was originally created during DoraHacks 2.0, the journey highlighted the potential of combining technology, community, and thoughtful design to create meaningful digital experiences.
+
 Built with ❤️ during DoraHacks 2.0 by Team DoraWin.
