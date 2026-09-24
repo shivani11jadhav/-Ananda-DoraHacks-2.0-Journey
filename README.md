@@ -173,7 +173,6 @@ Ananda taught us the importance of user feedback, product iteration, and buildin
 ## 👩‍💻 My Contributions
 
 - 🌿 Contributed to product ideation and feature planning
-- 🤖 Built and worked on GuideBot-related functionality during development
 - 🚀 Led the Product Hunt launch and submission process
 - 📢 Supported product promotion and user outreach
 - 💬 Collected, organized, and analyzed user feedback
