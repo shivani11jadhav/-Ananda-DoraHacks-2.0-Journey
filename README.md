@@ -11,7 +11,7 @@
 - 🚀 Ranked among the Top 100 Products on Product Hunt
 - 👥 Reached 50+ real users during public launch
 - 💬 Collected and iterated on real user feedback
-- 🎁 Received $800 worth of partner credits & product-growth benefits
+- 🎁 Earned recognition packages worth $800 in product-building credits and partner benefits
 
 ## 🔗 Links
 
@@ -20,6 +20,18 @@
 - 💻 Original Team Repository: https://github.com/Himisha-G/MeHackDora
 
 ---
+Ananda Homepage <img width="959" height="481" alt="image" src="https://github.com/user-attachments/assets/0b0e213f-ab98-4806-8e7c-3ba539447f7f" />
+
+## 📊 Journey Snapshot
+
+| Metric | Achievement |
+|----------|----------|
+| ⏳ Duration | 10 Days |
+| 👥 Users Reached | 50+ |
+| 🚀 Product Hunt | Top 100 |
+| 🏆 DoraHacks 2.0 | Top 50 |
+| 💬 User Feedback | Collected & Iterated |
+| 🎁 Recognition Package | $800 Credits |
 
 ## 📖 The Story Behind Ananda
 
@@ -35,7 +47,7 @@ The project was launched publicly, reached 50+ users, collected valuable feedbac
 
 ---
 
-## 🌿 About Ananda
+
 ## 🌿 About Ananda
 
 Ananda is a digital well-being platform designed to make emotional support feel more human, approachable, and comforting.
@@ -109,8 +121,8 @@ Ananda was not only built and launched during DoraHacks 2.0, but also received r
 - 🎓 Built as part of the GirlsWhoYap Fellowship
 - 🚀 Successfully launched during the 10-day challenge
 
-[Insert DoraHacks Top 50 Screenshot]
-
+These recognitions were earned after publicly launching the product, reaching users, and gathering community feedback during the DoraHacks 2.0 challenge.
+ https://drive.google.com/drive/folders/1e9bFcfU6yobvFSlqIUo-yVoT8I-Y4GSy?usp=drive_link
 ---
 
 ### 🚀 Product Hunt
@@ -136,6 +148,10 @@ One of the most valuable outcomes of this journey was receiving feedback from re
 
 Instead of building only for submission, Ananda was launched publicly and improved based on community responses.
 
+### 📁 Feedback Archive
+
+Additional user feedback screenshots can be found in: https://drive.google.com/drive/folders/1TTsUvQkUPod07QQBRnEgS-P36XcTAuOi?usp=sharing
+
 ### Highlights
 
 - Positive feedback on the concept and experience
@@ -143,17 +159,26 @@ Instead of building only for submission, Ananda was launched publicly and improv
 - Recommendations to reduce signup friction
 - Encouragement from users and community members
 - Validation that the platform addressed a genuine need
+- 
+- ## 💬 What We Learned
+
+Building a project is one thing.
+
+Launching it publicly, collecting feedback, and watching real users interact with it is a completely different experience.
+
+Ananda taught us the importance of user feedback, product iteration, and building beyond hackathon submissions.
 
 ## 👩‍💻 My Contributions
 
-- 🌿 Contributed to ideation and feature planning for Ananda
+- 🌿 Contributed to product ideation and feature planning
+- 🤖 Built and worked on GuideBot-related functionality during development
 - 🚀 Led the Product Hunt launch and submission process
 - 📢 Supported product promotion and user outreach
-- 💬 Collected and organized feedback from early users
+- 💬 Collected, organized, and analyzed user feedback
 - 🧪 Participated in testing and product iteration discussions
 - 🤝 Collaborated with the team throughout the DoraHacks 2.0 journey
 
-  ## 🤝 Team
+## 🤝 Team DoraWin
 
 Ananda was built as a collaborative team project during DoraHacks 2.0.
 
@@ -174,7 +199,7 @@ The project's success was the result of collective ideation, development, iterat
 https://ananda-sigma.vercel.app/
 
 ### Product Hunt
-https://www.producthunt.com/products/ananda-a-calm-world-for-your-mind(
+https://www.producthunt.com/products/ananda-a-calm-world-for-your-mind
 
 ### Original Team Repository
 https://github.com/Himisha-G/MeHackDora
@@ -187,3 +212,7 @@ Ananda started as a hackathon project during DoraHacks 2.0 and evolved into a pu
 More than the recognition, this journey provided hands-on experience in product thinking, user validation, community feedback, and collaborative building.
 
 🌿 From idea to launch, Ananda was a reminder that meaningful products are built with users, not just for them.
+
+### 📁 Supporting Evidence - https://drive.google.com/drive/folders/1CKvNzF8GJlrm1k7cCeYUjOe31Ox4Ascl?usp=sharing
+
+Built with ❤️ during DoraHacks 2.0 by Team DoraWin.
