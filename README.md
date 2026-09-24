@@ -122,7 +122,7 @@ Ananda was not only built and launched during DoraHacks 2.0, but also received r
 - 🚀 Successfully launched during the 10-day challenge
 
 These recognitions were earned after publicly launching the product, reaching users, and gathering community feedback during the DoraHacks 2.0 challenge.
- https://drive.google.com/drive/folders/1e9bFcfU6yobvFSlqIUo-yVoT8I-Y4GSy?usp=drive_link
+View Recognition Evidence: https://drive.google.com/drive/folders/1e9bFcfU6yobvFSlqIUo-yVoT8I-Y4GSy?usp=drive_link
 ---
 
 ### 🚀 Product Hunt
@@ -159,8 +159,8 @@ Additional user feedback screenshots can be found in: https://drive.google.com/d
 - Recommendations to reduce signup friction
 - Encouragement from users and community members
 - Validation that the platform addressed a genuine need
-- 
-- ## 💬 What We Learned
+
+## 💬 What We Learned
 
 Building a project is one thing.
 
@@ -205,6 +205,8 @@ https://www.producthunt.com/products/ananda-a-calm-world-for-your-mind
 https://github.com/Himisha-G/MeHackDora
 
 ---
+### 📁 Supporting Evidence - https://drive.google.com/drive/folders/1CKvNzF8GJlrm1k7cCeYUjOe31Ox4Ascl?usp=sharing
+
 ## 🌱 Final Thoughts
 
 Ananda started as a hackathon project during DoraHacks 2.0 and evolved into a publicly launched product that reached real users, received valuable feedback, and earned recognition from both the hackathon and product-building communities.
@@ -213,7 +215,7 @@ More than the recognition, this journey provided hands-on experience in product 
 
 🌿 From idea to launch, Ananda was a reminder that meaningful products are built with users, not just for them.
 
-### 📁 Supporting Evidence - https://drive.google.com/drive/folders/1CKvNzF8GJlrm1k7cCeYUjOe31Ox4Ascl?usp=sharing
+
 
 ## 🚀 Explore Ananda
 
@@ -226,7 +228,7 @@ We welcome feedback, ideas, and conversations around building thoughtful digital
 ## 📬 Connect
 
 - GitHub: https://github.com/shivani11jadhav
-- LinkedIn:www.linkedin.com/in/shivani-jadhav-299318368
+- LinkedIn: https://www.linkedin.com/in/shivani-jadhav-299318368
 - Product Hunt: https://www.producthunt.com/@shivani44
 - Email: shivanij112006@gmail.com
   Feel free to reach out for feedback, discussions, or questions about the project.
