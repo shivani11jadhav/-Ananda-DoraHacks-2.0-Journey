@@ -122,7 +122,9 @@ Ananda was not only built and launched during DoraHacks 2.0, but also received r
 - 🚀 Successfully launched during the 10-day challenge
 
 These recognitions were earned after publicly launching the product, reaching users, and gathering community feedback during the DoraHacks 2.0 challenge.
-View Recognition Evidence: https://drive.google.com/drive/folders/1e9bFcfU6yobvFSlqIUo-yVoT8I-Y4GSy?usp=drive_link
+📁 View Recognition Evidence: https://drive.google.com/drive/folders/1e9bFcfU6yobvFSlqIUo-yVoT8I-Y4GSy?usp=drive_link
+
+
 ---
 
 ### 🚀 Product Hunt
@@ -187,9 +189,8 @@ Ananda was built as a collaborative team project during DoraHacks 2.0.
 - Shivani jadhav
 - Himisha Gupta
 - Manasvi Jain
-
-
-The project's success was the result of collective ideation, development, iteration, launch, and community engagement efforts.
+  
+The project was developed collaboratively, with team members contributing across ideation, development, launch, feedback collection, and product iteration.
 
 ---
 
@@ -205,7 +206,11 @@ https://www.producthunt.com/products/ananda-a-calm-world-for-your-mind
 https://github.com/Himisha-G/MeHackDora
 
 ---
-### 📁 Supporting Evidence - https://drive.google.com/drive/folders/1CKvNzF8GJlrm1k7cCeYUjOe31Ox4Ascl?usp=sharing
+## 📁 Supporting Evidence
+
+Screenshots, recognition proofs, rewards, and additional project materials:
+
+ https://drive.google.com/drive/folders/1CKvNzF8GJlrm1k7cCeYUjOe31Ox4Ascl?usp=sharing
 
 ## 🌱 Final Thoughts
 
@@ -231,7 +236,8 @@ We welcome feedback, ideas, and conversations around building thoughtful digital
 - LinkedIn: https://www.linkedin.com/in/shivani-jadhav-299318368
 - Product Hunt: https://www.producthunt.com/@shivani44
 - Email: shivanij112006@gmail.com
-  Feel free to reach out for feedback, discussions, or questions about the project.
+ 
+Feel free to reach out for feedback, discussions, or questions about the project.
 
 While Ananda was originally created during DoraHacks 2.0, the journey highlighted the potential of combining technology, community, and thoughtful design to create meaningful digital experiences.
 
