@@ -223,6 +223,13 @@ Experience Ananda and explore the digital village built during DoraHacks 2.0.
 https://ananda-sigma.vercel.app/
 
 We welcome feedback, ideas, and conversations around building thoughtful digital experiences for well-being.
+## 📬 Connect
+
+- GitHub: https://github.com/shivani11jadhav
+- LinkedIn:www.linkedin.com/in/shivani-jadhav-299318368
+- Product Hunt: https://www.producthunt.com/@shivani44
+- Email: shivanij112006@gmail.com
+  Feel free to reach out for feedback, discussions, or questions about the project.
 
 While Ananda was originally created during DoraHacks 2.0, the journey highlighted the potential of combining technology, community, and thoughtful design to create meaningful digital experiences.
 
